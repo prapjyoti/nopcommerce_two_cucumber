@@ -1,0 +1,101 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 543630700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on home page",
+            "match": {
+              "location": "TestSuit.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 11388947400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "User should Navigate to electronics page successfully",
+        "description": "",
+        "id": "home-page-functionality;user-should-navigate-to-electronics-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1657577700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1659932300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on \"Electronics\" link then",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Electronics",
+                  "offset": 12
+                }
+              ],
+              "location": "TopMenuTest.iClickOnLinkThen(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 138586900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I should navigate to electronics page successfully",
+            "match": {
+              "location": "TopMenuTest.iShouldNavigateToElectronicsPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@Smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Home Page Functionality",
+    "description": "\r\nAs a user I want to check home page different links functionality",
+    "id": "home-page-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefile/topmenu.feature"
+  }
+]

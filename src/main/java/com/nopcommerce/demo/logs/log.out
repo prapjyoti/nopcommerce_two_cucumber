@@ -1,0 +1,28 @@
+2021-06-27 21:06:799 INFO  BasePage :29 - Launching Chrome Browser 
+2021-06-27 21:06:475 INFO  HomePage :54 - Clicking on computer link : [[ChromeDriver: chrome on WINDOWS (6a9572ad8e0fc9a23eb08ad7ef3d2159)] -> link text: Computers]
+2021-06-27 21:06:442 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (6a9572ad8e0fc9a23eb08ad7ef3d2159)] -> link text: Desktops]
+2021-06-27 21:06:445 INFO  HomePage :36 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (6a9572ad8e0fc9a23eb08ad7ef3d2159)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 21:06:976 INFO  BasePage :29 - Launching Chrome Browser 
+2021-06-27 21:06:71 INFO  HomePage :54 - Clicking on computer link : [[ChromeDriver: chrome on WINDOWS (5da371ece77fc5df854fc6c35da42f48)] -> link text: Computers]
+2021-06-27 21:06:97 INFO  HomePage :30 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5da371ece77fc5df854fc6c35da42f48)] -> link text: Desktops]
+2021-06-27 21:06:583 INFO  HomePage :36 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (5da371ece77fc5df854fc6c35da42f48)] -> xpath: //select[@id='products-orderby']]
+2021-06-27 21:06:790 INFO  BuildYourOwnComputerPage :54 - Click on add to cart button : [[ChromeDriver: chrome on WINDOWS (5da371ece77fc5df854fc6c35da42f48)] -> xpath: //div[@class='item-box'][1]//button[text()='Add to cart']]
+2021-06-27 21:06:777 INFO  BuildYourOwnComputerPage :59 - Click on add to cart button : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='item-box'][1]//button[text()='Add to cart']'
+2021-06-27 21:06:227 INFO  BuildYourOwnComputerPage :67 - select processor from drop down : [[ChromeDriver: chrome on WINDOWS (5da371ece77fc5df854fc6c35da42f48)] -> xpath: //select[@id='product_attribute_1']]
+2021-06-27 21:06:598 INFO  BuildYourOwnComputerPage :73 - select ram from drop down : [[ChromeDriver: chrome on WINDOWS (5da371ece77fc5df854fc6c35da42f48)] -> xpath: //select[@id='product_attribute_2']]
+2021-06-27 21:06:775 INFO  BuildYourOwnComputerPage :79 - Click on Hdd : [[ChromeDriver: chrome on WINDOWS (5da371ece77fc5df854fc6c35da42f48)] -> xpath: //dd[@id='product_attribute_input_3']//label[text()='400 GB [+$100.00]']]
+2021-06-27 21:06:950 INFO  BuildYourOwnComputerPage :85 - Click on os radio: [[ChromeDriver: chrome on WINDOWS (5da371ece77fc5df854fc6c35da42f48)] -> xpath: //input[@id='product_attribute_4_9']]
+2021-06-27 21:06:157 INFO  BuildYourOwnComputerPage :94 - Click on Microsoftoffice :[[ChromeDriver: chrome on WINDOWS (5da371ece77fc5df854fc6c35da42f48)] -> xpath: //dd[@id='product_attribute_input_3']//label[text()='400 GB [+$100.00]']]
+2021-06-27 21:06:365 INFO  BuildYourOwnComputerPage :100 - Click on Total commander :Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='item-box'][1]//button[text()='Add to cart']'
+2021-06-27 21:06:404 INFO  BuildYourOwnComputerPage :106 - Verify price : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='item-box'][1]//button[text()='Add to cart']'
+2021-06-27 21:06:585 INFO  BuildYourOwnComputerPage :114 - Click on add to cart : [[ChromeDriver: chrome on WINDOWS (5da371ece77fc5df854fc6c35da42f48)] -> xpath: //button[@id='add-to-cart-button-1']]
+2021-06-27 21:06:669 INFO  BuildYourOwnComputerPage :119 - Click on shopping cart text :[[ChromeDriver: chrome on WINDOWS (5da371ece77fc5df854fc6c35da42f48)] -> xpath: //p[text()='The product has been added to your ']]
+2021-06-27 21:06:897 INFO  BuildYourOwnComputerPage :126 - Click on Green Bar : [[ChromeDriver: chrome on WINDOWS (5da371ece77fc5df854fc6c35da42f48)] -> xpath: //span[@class='close']]
+2021-06-29 20:06:149 INFO  BasePage :29 - Launching Chrome Browser 
+2021-06-29 20:06:859 INFO  TopMenuPage :69 - verify Computer page : [[ChromeDriver: chrome on WINDOWS (6b113507cc514b84072050ccabc8253a)] -> partial link text: Compute]
+2021-06-29 20:06:164 INFO  BasePage :29 - Launching Chrome Browser 
+2021-06-29 20:06:632 INFO  TopMenuPage :75 - Navigate electronics : [[ChromeDriver: chrome on WINDOWS (5681d6ad44730decbd9e158bc38ffc1b)] -> partial link text: Electroni]
+2021-06-29 20:06:430 INFO  BasePage :29 - Launching Chrome Browser 
+2021-06-29 20:06:482 INFO  TopMenuPage :69 - verify Computer page : [[ChromeDriver: chrome on WINDOWS (54b4d8988768a3b67412fc20c3ed3bfa)] -> partial link text: Compute]
+2021-06-29 20:06:308 INFO  BasePage :29 - Launching Chrome Browser 
+2021-06-29 20:06:189 INFO  TopMenuPage :75 - Navigate electronics : [[ChromeDriver: chrome on WINDOWS (710584567b708e14c2f31eb5484cffb3)] -> partial link text: Electroni]
